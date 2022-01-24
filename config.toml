@@ -1,0 +1,22 @@
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "discord"
+    url = "https://discordapp.com/users/853571061919907840"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/AKhilRaghav0"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about-hugo/"
+    weight = 20
